@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <br/>
 
-[![Ishant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ishh91&theme=github-compact)](https://github.com/Ishh91/github-readme-activity-graph)
+[![Abhay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhaydixit220201&theme=github-compact)](https://github.com/abhaydixit220201/github-readme-activity-graph)
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]() | You'll find my professional history there. |
  <h1></h1>
 

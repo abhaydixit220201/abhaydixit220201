@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <br/>
 
-<a href="https://activity-graph.herokuapp.com/graph?username=abhaydixit220201&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"><img alt="Contirbution Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhaydixit220201&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Ishant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ishh91&theme=github-compact)](https://github.com/Ishh91/github-readme-activity-graph)
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]() | You'll find my professional history there. |
  <h1></h1>
 

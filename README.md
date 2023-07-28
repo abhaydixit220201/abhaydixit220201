@@ -3,7 +3,7 @@
 abhaydixit220201/abhaydixit220201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2>Hello👋🙏</h2>
+<h2>Hello I am Abhay Dixit</h2>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ThrM4jEi2lBxd7X2yz/giphy.gif" width="500"/>
 
 <h3> 💻 About Me </h3>
